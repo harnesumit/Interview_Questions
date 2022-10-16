@@ -392,4 +392,9 @@
         "question" : "what if you get a good offer from other company?",
         "answerLink" : "https://www.job-applications.com/interview-questions/how-will-you-make-your-decision-if-given-multiple-job-offers/ "
     }, 
+ {
+        "id" : "70",
+        "question" : "Our MNC company or any new startup, which will give you more opportunites to learn more?",
+        "answerLink" : "You can answer this question by teeling that one can learn new things, technologies in MNC company, Experienced seniors will help, comapnies are always ready to invest on new technologies. Aout starup one can say startup will teach how to learn new things on your own, new projects, new challenges, etc "
+    }, 
 ]
